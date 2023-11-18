@@ -1,43 +1,43 @@
 ---
 # Display name
-title: 吳健雄
+title: Antoine Bluntz
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Antoine
+last_name: Bluntz
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 😑
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Sales Agent & Data Analyst
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Sciences Po Lyon
+    url: https://www.sciencespo-lyon.fr/
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 social:
   - icon: at-symbol
-    link: 'mailto:your-email@example.com'
-  - icon: x
-    link: https://twitter.com/GetResearchDev
+    link: 'mailto:antoine.bluntz@gmail.com'
+  - icon: github
+    link: https://github.com/AntoineBLUNTZ
     label: Follow me on X
   - icon: instagram
     link: https://www.instagram.com/
   - icon: linkedin
-    link: https://www.linkedin.com/
+    link: linkedin.com/in/antoine-bluntz-2a777332
   - icon: google-scholar
-    link: https://scholar.google.com/citations?user=mG4imMEAAAAJ
+    link: https://scholar.google.com/
   - icon: orcid
     link: https://www.orcid.com/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
@@ -45,7 +45,7 @@ social:
     link: uploads/resume.pdf
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
+Antoine Bluntz is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
+distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops
 self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 {style="text-align: justify; font-size: 0.8em;"}
